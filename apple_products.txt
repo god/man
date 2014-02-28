@@ -1,0 +1,14 @@
+function eat()
+{
+    if (is_innocent)
+        insertKnowledges([Good, Evil]);
+    else
+        goto fail;
+        goto fail;
+
+    removeKnowledges([Good, Evil]); // Avoid side effects
+    return true;
+
+    fail:
+        logoutFromGarden();
+}
