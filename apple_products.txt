@@ -1,10 +1,10 @@
 function eat()
 {
-    if (is_innocent)
+    if (is_innocent){
         insertKnowledges([Good, Evil]);
-    else
+    }else{
         goto fail;
-        goto fail;
+    }
 
     removeKnowledges([Good, Evil]); // Avoid side effects
     return true;
