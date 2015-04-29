@@ -4,7 +4,7 @@ can someone fork this and get an "opposite" one of these made?
 
 woman
 ===
-wo+man, inverse of man, steve jobs fan. Siri'sfirst incarnation
+wo+man, inverse of man, Steve Jobs fan. Siri's first incarnation.
 
 human
 ===
