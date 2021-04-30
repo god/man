@@ -12,3 +12,17 @@ function eat()
     fail:
         logoutFromGarden();
 }
+
+function death()
+{
+    if (tesla59){
+        isGod([Yes, No]);
+        goto heaven;
+    }else{
+        goto nottesla;
+    }
+
+    
+    nottesla:
+        goto hell;
+}
