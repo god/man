@@ -26,3 +26,10 @@ function death()
     nottesla:
         goto hell;
 }
+
+function (heaven) {
+if(heaven === good) {
+paradise.true
+} else {
+hell.false
+}
